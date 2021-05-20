@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9998;
   border: 0;
   background: none;
-  font-size: 24px;
+  font-size: 32px;
   transition: all 0.4s;
   outline: none !important;
   line-height: 1;
@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(255, 255, 255, 0.15);
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1380px) {
   #hero {
     background-attachment: fixed;
   }
